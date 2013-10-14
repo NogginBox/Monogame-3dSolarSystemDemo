@@ -1,0 +1,15 @@
+syntax: glob
+Demo3D.ContentPipeline/Demo3D.ContentPipeline/bin/Windows Phone/Debug/AppManifest.xaml
+Demo3D.ContentPipeline/Demo3D.ContentPipeline/bin/Windows Phone/Debug/WMAppManifest.xml
+Demo3D.ContentPipeline/Demo3D.ContentPipeline/bin/Windows Phone/Debug/PhoneGameThumb.png
+Demo3D.ContentPipeline/Demo3D.ContentPipeline/bin/Windows Phone/Debug/Demo3D.ContentPipeline.xap
+Demo3D.ContentPipeline/Demo3D.ContentPipeline/bin/Windows Phone/Debug/Demo3D.ContentPipeline.pdb
+Demo3D.ContentPipeline/Demo3D.ContentPipeline/bin/Windows Phone/Debug/Demo3D.ContentPipeline.dll
+Demo3D.ContentPipeline/Demo3D.ContentPipeline/Demo3D.ContentPipeline.csproj.Debug.cachefile
+Demo3D.ContentPipeline/Demo3D.ContentPipeline/obj/*
+Demo3D.Game/bin/Windows8/Debug/*
+Demo3D.Game/bin/Windows8/x86/Debug/*
+Demo3D.Game/obj/*
+Demo3D.Game/Demo3D.MyGame.csproj.user
+Demo3D.v11.suo
+Demo3D.ContentPipeline/Demo3D.ContentPipelineContent/obj/Windows Phone/Debug/*
